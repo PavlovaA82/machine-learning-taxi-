@@ -44,7 +44,7 @@ import pandas as pd  # Работа с табличными данными
 import numpy as np   # Математические операции и массивы
 ```
 
-**Обоснование:**
+> **Обоснование:**
 Pandas обеспечивает гибкую работу с таблицами, NumPy — быструю математику и векторизацию операций.
 
 ---
@@ -59,7 +59,7 @@ from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 ```
 
-**Обоснование:**
+> **Обоснование:**
 Scikit-learn — стандарт де-факто для ML-задач в Python. Надежные и оптимизированные реализации.
 
 ---
