@@ -407,6 +407,9 @@ for dist in distances:
 
 В нижних графиках видно, что предсказанные значения хорошо совпадают с фактическими, а распределение ошибок сосредоточено около нуля, что подтверждает высокую точность модели.
 
+<img width="1271" height="731" alt="image" src="https://github.com/user-attachments/assets/bcfbb5df-379a-4dcc-8adf-a8c9628ff385" />
+
+
 
 
 
