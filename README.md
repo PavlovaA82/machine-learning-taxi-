@@ -2,7 +2,7 @@
 
 # :taxi:  Модель Прогнозирования Стоимости Поездок Такси
 
-`https://github.com/PavlovaA82/machine-learning-taxi-/blob/main/такси.py`
+[`https://github.com/PavlovaA82/machine-learning-taxi-/blob/main/такси.py`]
 
 ## :rainbow: Введение и Постановка Задачи
 
