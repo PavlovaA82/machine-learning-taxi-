@@ -312,4 +312,5 @@ distances = [5, 10, 15, 20, 25]
 for dist in distances:
     sample_ride['distance_km'] = dist
     cost = predict_ride_cost(best_model, scaler, label_encoders, sample_ride)
+
     print(f"  {dist} км → {cost:.2f} руб.")
